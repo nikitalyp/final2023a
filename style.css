@@ -8,12 +8,15 @@ padding: 40px 0px 40px 25px;
 }
 
 .main-link{
- background-image: linear-gradient(#6C8CD5, #6C8CD5, #FFE373);
+ background-image: linear-gradient(#);
   padding: 5px 10px 5px 10px;
   font-size: 36px;
   text-decoration: none;
 }
-
+.main-link:hover{
+  background-image: linear-gradient(180deg, #A67200 2%, #FFFFFF 10%, #FFFFFF 90%, #A67200 100%);
+    transition: 2.5s linear;
+  color: #000000;
 h1{
   text-align: center;
   color:#0772A1;
