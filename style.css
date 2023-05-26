@@ -17,6 +17,7 @@ padding: 40px 0px 40px 25px;
   background-image: linear-gradient(180deg, #A67200 2%, #FFFFFF 10%, #FFFFFF 90%, #A67200 100%);
     transition: 2.5s linear;
   color: #000000;
+}
 h1{
   text-align: center;
   color:#0772A1;
@@ -42,7 +43,7 @@ nav{
   margin-right: 20px;
   text-align: right;
 }
-  nav .cross{
+nav .cross{
     margin-right:60px;
     font-size:24px;
     text-decoration: none;
