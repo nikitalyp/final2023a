@@ -34,3 +34,18 @@ ul{
   margin:0 auto;
   justify-content: center;
   align-items: center;
+}
+nav{
+  margin-right: 20px;
+  text-align: right;
+}
+  nav .cross{
+    margin-right:60px;
+    font-size:24px;
+    text-decoration: none;
+    color: #000000;
+    border: 1px dotted #000000;
+    border-radius: 5px;
+    box-shadow: 0px 20px 10px #BF9130;
+    padding: 5px;
+}
